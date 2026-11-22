@@ -25,3 +25,7 @@ This project uses Microsoft Excel to organize, clean, and analyze a sample retai
 
 ## Purpose
 To demonstrate beginner-level Excel skills through a practical retail inventory analysis project.
+
+## Project Screenshot
+
+![Inventory Analysis](inventory-analysis.png)
